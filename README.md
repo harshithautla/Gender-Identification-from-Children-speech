@@ -1,6 +1,6 @@
 # Gender-Identification-from-Children-speech
-It identifies gender of the children from their speech.
-Gender identification from speech is an important problem with many
+It identifies the gender of the children from their speech.
+Gender identification from speech is an important aspect with many
 applications including speaker identification, speaker segmentation, and
 personalizing human-machine interactions,for normalization of speech features, which has been shown to decrease word
 error rate in speech recognition. Gender identification can improve the
